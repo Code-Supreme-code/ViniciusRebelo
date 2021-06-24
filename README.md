@@ -3,7 +3,7 @@
 **Studying Analysis and Systems Development & IT | Dev Js Jr. | Linux User |**
 
 <!--
-**Vinicius-moura-code/Vinicius-moura-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ViniciusRebelo/ViniciusRebelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,14 +54,14 @@ As a developer, I have been around 19 months since we decided to join Ti, coming
 
 -------------
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinicius-moura-code&row=1&column=6&theme=darkhub" alt="Vinicius-moura-code" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ViniciusRebelo&row=1&column=6&theme=darkhub" alt="ViniciusRebelo" /></a> </p>
 
 ### Analytics 👨‍💻
 <p align="center">
  
 **Stack's**
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical&langs_count=10)](https://github.com/Vinicius-moura-code/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRebelo&layout=compact&theme=radical&langs_count=10)](https://github.com/ViniciusRebelo/github-readme-stats)
  </p>
  
 </br>
@@ -73,13 +73,13 @@ As a developer, I have been around 19 months since we decided to join Ti, coming
  
  <p align="center">
   
-![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)
+![ViniciusRebelo GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusRebelo&show_icons=true&theme=radical)
  </p>
  
 </p>
 
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vinicius-moura-code&repo=Vinicius-moura-code&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vinicius-moura-code&repo=ViniciusRebelo&countColorcountColor)
 
 <a target="_blank" href="https://www.linkedin.com/in/mr-vinicius/" />
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
